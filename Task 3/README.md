@@ -15,7 +15,7 @@ Analyze the user experience (UX) of the Zomato mobile application and identify i
 - 📝 Conclusion
 
 ## 📎 Report
-The complete UX Case Study is available in the attached **Zomato Case Study.pdf**.
+The complete UX Case Study is available in the attached **Zomato Study Report.pdf**.
 
 ## 🛠️ Tools Used
 - 📄 Microsoft Word
